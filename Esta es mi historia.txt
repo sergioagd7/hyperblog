@@ -1,2 +1,4 @@
 Esta es mi historia, soy sergio gnecco  y tengo 22 años
-Hoy es lunes 6 de marzo del 2023. Estoy empezando a programar en Git Bash
+Hoy es martes 7 de marzo del 2023. Estoy empezando a programar en Git Bash
+
+Tengo hambre debido a que ya es medio día.
